@@ -25,5 +25,5 @@ Este repositório contém todo o material disponibilizado pelo professor, bem co
 
 ## Disclaimer
 
-Todo o material presente neste repositório, **exceto o código fonte e as resoluções dos exercícios**, foi criado e fornecido pelo professor da unidade curricular.  
+Todo o material presente neste repositório, **exceto os exercícios e as tarefas relacionadas com PINT**, foi criado e fornecido pelo professor da unidade curricular.  
 Este repositório destina-se **exclusivamente a fins académicos e pedagógicos**.  
